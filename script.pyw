@@ -1,5 +1,5 @@
 #!python2.7
-#ver. 2
+#ver. 3
 from Tkinter import *
 import base64
 import ttk
